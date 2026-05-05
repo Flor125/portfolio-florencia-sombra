@@ -40,8 +40,8 @@ const I18N = {
 
     facts: [
       { v: "9/10", l: "calificación PPS" },
-      { v: "8.43", l: "promedio carrera" },
-      { v: "30+", l: "insignias IBM Z" },
+      { v: "7.98", l: "promedio carrera" },
+      { v: "30+", l: "insignias técnicas" },
       { v: "B2", l: "inglés EF SET" },
     ],
 
@@ -85,7 +85,7 @@ const I18N = {
 
     eduSchool: "Universidad Nacional de Villa Mercedes (UNViMe)",
     eduDegree: "Programadora Universitaria de Sistemas",
-    eduMeta: "Promedio 8.43/10 · Egresada Marzo 2026 · Práctica Profesional Supervisada calificada 9/10 — único despliegue en infraestructura IBM LinuxONE real de la cohorte.",
+    eduMeta: "Promedio 7.98/10 · Egresada Marzo 2026 · Práctica Profesional Supervisada calificada 9/10 — único despliegue en infraestructura IBM LinuxONE real de la cohorte.",
 
     contactPre: "*** END OF DATA · BEGIN COMMUNICATION ***",
     contactH: "Hablemos.",
@@ -133,8 +133,8 @@ const I18N = {
 
     facts: [
       { v: "9/10", l: "PPS score" },
-      { v: "8.43", l: "GPA" },
-      { v: "30+", l: "IBM Z badges" },
+      { v: "7.98", l: "GPA" },
+      { v: "30+", l: "technical badges" },
       { v: "B2", l: "EF SET English" },
     ],
 
@@ -178,7 +178,7 @@ const I18N = {
 
     eduSchool: "Universidad Nacional de Villa Mercedes (UNViMe)",
     eduDegree: "University Systems Programmer",
-    eduMeta: "GPA 8.43/10 · Graduated March 2026 · Supervised practice scored 9/10 — only deployment on real IBM LinuxONE infrastructure in the cohort.",
+    eduMeta: "GPA 7.98/10 · Graduated March 2026 · Supervised practice scored 9/10 — only deployment on real IBM LinuxONE infrastructure in the cohort.",
 
     contactPre: "*** END OF DATA · BEGIN COMMUNICATION ***",
     contactH: "Let's talk.",
