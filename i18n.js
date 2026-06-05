@@ -74,6 +74,7 @@ const I18N = {
       { t: "IBM z/OS Mainframe Practitioner Professional Certificate", o: "IBM / Coursera · z/OS, JCL, ISPF, RACF, administración mainframe", y: "2024–2025" },
       { t: "IBM Z Xplore All Star", o: "Concepts + Advanced + All Star + Code-a-Thon · 30+ insignias técnicas", y: "Oct 2024" },
       { t: "Fundamentals for Zowe", o: "Interskill Learning · Zowe CLI, Desktop y Explorer", y: "2025" },
+      { t: "Modernize Applications with IBM CICS", o: "IBM/Credly · CICS, APIs, Java Spring Boot", y: "2026" },
       { t: "EF SET English B2 — Upper Intermediate", o: "Lectura técnica, escritura y comunicación en inglés", y: "2024" },
     ],
 
@@ -167,6 +168,7 @@ const I18N = {
       { t: "IBM z/OS Mainframe Practitioner Professional Certificate", o: "IBM / Coursera · z/OS, JCL, ISPF, RACF, mainframe administration", y: "2024–2025" },
       { t: "IBM Z Xplore All Star", o: "Concepts + Advanced + All Star + Code-a-Thon · 30+ technical badges", y: "Oct 2024" },
       { t: "Fundamentals for Zowe", o: "Interskill Learning · Zowe CLI, Desktop and Explorer", y: "2025" },
+      { t: "Modernize Applications with IBM CICS", o: "IBM/Credly · CICS, APIs, Java Spring Boot", y: "2026" },
       { t: "EF SET English B2 — Upper Intermediate", o: "Technical reading, writing and communication in English", y: "2024" },
     ],
 
